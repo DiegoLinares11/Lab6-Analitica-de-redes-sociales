@@ -1,0 +1,11 @@
+notebook
+pandas
+numpy
+matplotlib
+scikit-learn
+unidecode
+wordcloud
+vaderSentiment
+nltk
+networkx
+community
